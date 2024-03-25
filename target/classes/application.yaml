@@ -1,0 +1,38 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /community
+
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/community1
+      username: root
+      password: 2425luffy2425
+  thymeleaf:
+    cache: false
+  mail:
+    host: smtp.sina.com
+    port: 465
+    username: kritismabc@sina.com
+    password: bf544f19839c8199
+    protocol: smtps
+    properties:
+      mail:
+        ssl:
+          enable: true
+
+community:
+  path:
+    domain: http://localhost:8080
+    upload: d:/JAVA/data/upload
+
+
+mybatis-plus:
+  type-aliases-package: com.nowcoder.community
+  configuration:
+    use-generated-keys: true
+    map-underscore-to-camel-case: true
+  mapper-locations: classpath:mapper/*.xml

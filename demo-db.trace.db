@@ -1,0 +1,329 @@
+2024-03-24 01:15:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select  \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 01:19:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select\000a         \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select
+         
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 01:24:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select\000a         \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select
+         
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 01:27:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select\000a         \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select
+         
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 01:30:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "user" not found (this database is empty); SQL statement:
+select
+         
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from "user"
+        where id = ? [42104-214]
+2024-03-24 01:31:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select\000a         \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select
+         
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 01:32:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select\000a         \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select
+         
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 01:36:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select\000a         \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select
+         
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 01:37:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select\000a         \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select
+         
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 01:56:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select\000a         \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select
+         
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 01:57:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select\000a         \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select
+         
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 01:58:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select\000a         \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select
+         
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 02:00:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select\000a         \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select
+         
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 02:05:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select\000a         \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select
+         
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 02:05:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select\000a         \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select
+         
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 02:06:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select\000a         \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select
+         
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 02:13:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select\000a         \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]'user'\000a        where id = ?"; expected "identifier"; SQL statement:
+select
+         
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from 'user'
+        where id = ? [42001-214]
+2024-03-24 02:14:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select\000a         \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select
+         
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 02:14:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select  \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 02:15:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT\000a         \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        FROM [*]user\000a        WHERE id = ?"; expected "identifier"; SQL statement:
+SELECT
+         
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        FROM user
+        WHERE id = ? [42001-214]
+2024-03-24 02:16:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select  \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 02:17:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select  \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 02:18:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select  \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 02:25:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "user" not found (this database is empty); SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from "user"
+        where id = ? [42104-214]
+2024-03-24 02:33:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select  \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 02:34:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select  \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 02:34:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select  \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 02:34:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select  \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 02:35:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select  \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 02:37:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select  \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 02:38:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "user" not found (this database is empty); SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from "user"
+        where id = ? [42104-214]
+2024-03-24 02:49:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select  \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 10:34:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select  \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 10:37:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER1" not found (this database is empty); SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user1
+        where id = ? [42104-214]
+2024-03-24 10:37:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER1" not found (this database is empty); SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user1
+        where id = ? [42104-214]
+2024-03-24 10:38:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER1" not found (this database is empty); SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user1
+        where id = ? [42104-214]
+2024-03-24 10:41:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER1" not found (this database is empty); SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user1
+        where id = ? [42104-214]
+2024-03-24 10:50:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER1" not found (this database is empty); SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user1
+        where id = ? [42104-214]
+2024-03-24 10:55:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select  \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 11:05:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select  \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 11:08:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select  \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 11:23:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select username,password,salt,email,type,status,activation_code,header_url,create_time\000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select username,password,salt,email,type,status,activation_code,header_url,create_time
+        from user
+        where id = ? [42001-214]
+2024-03-24 11:39:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select  \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
+2024-03-24 11:43:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found (this database is empty); SQL statement:
+select *
+        from message
+        where id = ? [42104-214]
+2024-03-24 11:43:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select  \000a        id,username,password,salt,email,type,status,activation_code,header_url,create_time\000a     \000a        from [*]user\000a        where id = ?"; expected "identifier"; SQL statement:
+select  
+        id,username,password,salt,email,type,status,activation_code,header_url,create_time
+     
+        from user
+        where id = ? [42001-214]
